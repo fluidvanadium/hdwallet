@@ -1,10 +1,8 @@
 [package]
 name = "hdwallet"
-version = "0.4.1"
-authors = ["jjy <jjyruby@gmail.com>"]
+version = "0.4.2"
 edition = "2021"
 license = "MIT"
-repository = "https://github.com/jjyr/hdwallet"
 keywords = [ "hdwallet", "BIP32", "wallet", "bitcoin", "crypto" ]
 readme = "README.md"
 description = "Hierarchical deterministic wallet (BIP-32)"
